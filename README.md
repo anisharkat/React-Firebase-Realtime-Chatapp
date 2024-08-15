@@ -23,7 +23,22 @@ To run this project locally, follow these steps:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/username/repository.git
+
+2. **Change dir to the repository**:
+   ```bash
    cd repository
+
+3. **Install packages**:
+   ```bash
    npm install
-   npm run start 
+
+4. **Run the project**:
+   ```bash
+   npm run start
+
+5  **Show resault **:
+open your fav browser and type :
+   ```bash
+   https://localhost:3000/
+   
    
