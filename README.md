@@ -37,7 +37,6 @@ To run this project locally, follow these steps:
    npm run start
 
 5  **Show resault **:
-open your fav browser and type :
    ```bash
    https://localhost:3000/
    
