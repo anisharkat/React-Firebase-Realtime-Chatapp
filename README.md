@@ -36,7 +36,7 @@ To run this project locally, follow these steps:
    ```bash
    npm run start
 
-5  **Show resault **:
+5.  **Show resault **:
    ```bash
    https://localhost:3000/
    
